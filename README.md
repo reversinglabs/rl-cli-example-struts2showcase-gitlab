@@ -1,8 +1,8 @@
 # ReversingLabs rl-secure GitLab CI Configuration Examples
 
-This repository contains a working example of GitLab workflow to illustrate scanning with the [ReversingLabs secure.software CLI](https://docs.secure.software/cli/).
+This repository contains a working example of GitLab workflow to illustrate scanning with the [ReversingLabs Spectra Assure CLI](https://docs.secure.software/cli/).
 
-ReversingLabs secure.software CLI is capable of scanning [nearly any type](https://docs.secure.software/concepts/language-coverage) of software artifact or package that results from a build.
+ReversingLabs Spectra Assure CLI is capable of scanning [nearly any type](https://docs.secure.software/concepts/language-coverage) of software artifact or package that results from a build.
 
 In this example, we're using the source code and Maven build instructions for the Struts2 showcase web app, which came with [Apache Struts v2.5.28](https://archive.apache.org/dist/struts/2.5.28/).
 
